@@ -5,6 +5,6 @@ Solves ["the hardest sudoku puzzle"](http://www.telegraph.co.uk/news/science/sci
 in less than 0.2 sec on a 6th-gen Intel i5 CPU (quad-core).
 
 <p align="center">
-  <img src="https://github.com/karolisjan/Sudoku-Solver-WPF/demo.gif" alt="Voilà!">
+  <img src="https://github.com/karolisjan/Sudoku-Solver-WPF/blob/master/demo.gif" alt="Voilà!">
   </img>  
 </p>
